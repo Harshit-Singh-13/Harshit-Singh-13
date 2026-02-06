@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Harshit Singh Bisht! 👋
 
-<!--
-**Harshit-Singh-13/Harshit-Singh-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Full-Stack Enthusiast**
 
-Here are some ideas to get you started:
+I am pusuing graduation in BCA and based in **Nainital** with a strong focus on software development, web technologies, and data analytics. I love solving real-world challenges through code and collaborating on creative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on **Android & Web Applications**.
+- 🌱 I’m currently exploring **Data Analytics** and **Cloud Computing**.
+- 👯 I’m looking to collaborate on **Open Source projects** and **Team-based coding**.
+- 📸 When I'm not coding, I enjoy **Photography**, **Hiking**, and **Gardening**.
+- 📫 Reach me at: **hsrex59@gmail.com**
+
+### 🛠 Tech Stack
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, Java, C++ |
+| **Web** | React, JavaScript, HTML, CSS, PHP |
+| **Databases** | MySQL, MongoDB, SQL, Supabase |
+| **Tools & OS** | Git, GitHub, Linux, Windows |
+
+---
+*Thanks for visiting my profile!*
